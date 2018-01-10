@@ -1,0 +1,2 @@
+# LinkedHashMap_LruCache_Note
+从源码分析LinkedHashMap以及其在LruCache中的应用
